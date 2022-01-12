@@ -1,8 +1,13 @@
 Hi, I’m Nguyen Duc Anh
 I’m a Machine Learning Engineer
+My Contact
+Phone   : 0834371458
+Email   : anh10010@gmail.com
+Location: Ho Chi Minh City, Viet Nam 
 
-Email :anh10010@gmail.com
+This is all my school project
 
+Thanks for take your time.
 <!---
 anh10010/anh10010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

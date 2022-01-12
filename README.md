@@ -1,8 +1,13 @@
 Hi, I’m Nguyen Duc Anh
+
 I’m a Machine Learning Engineer
-My Contact
+
+## My Contact
+
 Phone   : 0834371458
+
 Email   : anh10010@gmail.com
+
 Location: Ho Chi Minh City, Viet Nam 
 
 This is all my school project

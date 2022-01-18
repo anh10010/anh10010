@@ -8,6 +8,8 @@ Phone   : 0834371458
 
 Email   : anh10010@gmail.com
 
+Linkedin: linkedin.com/in/anh-nguyen-353a52227
+
 Location: Ho Chi Minh City, Viet Nam 
 
 This is all my school project
